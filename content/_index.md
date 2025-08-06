@@ -58,6 +58,17 @@ grid:
         url: "/build-cloud/setup/"
       - text: "Release notes"
         url: "/build-cloud/release-notes/"
+  - title: Docker Agent Builder
+    icon: smart_toy
+    description: |
+      Create, manage, and share AI agents for development tasks.
+    links:
+      - text: "Overview"
+        url: "/ai/agents/"
+      - text: "Getting started"
+        url: "/ai/agents/#getting-started-with-docker-agent-builder"
+      - text: "Create an agent"
+        url: "/ai/agents/#agents-create-and-manage-custom-ai-agents"
   - title: Docker Compose
     icon: polyline
     description: |
