@@ -42,6 +42,10 @@ params:
     description: Streamline your workflow and get the most out of the Docker ecosystem with your personal AI assistant.
     icon: note_add
     link: /ai/gordon/
+  - title: Docker Agent Builder
+    description: Create, manage, and share AI agents for development tasks.
+    icon: smart_toy
+    link: /ai/agents/
   - title: Docker Model Runner
     description: View and manage your local models.
     icon: /icons/models.svg
