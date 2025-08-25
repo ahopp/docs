@@ -2,7 +2,13 @@
 title: Docker Agent Builder
 description: Create, manage, and share AI agents with Docker Agent Builder. Build custom AI agents, discover community agents, and manage interactive chat sessions.
 keywords: ai agents, agent builder, marketplace, chat sessions
-weight: 50
+params:
+  sidebar:
+    badge:
+      color: blue
+      text: Beta
+    group: AI
+weight: 20
 ---
 
 Docker Agent Builder is a comprehensive platform for creating, managing, and
